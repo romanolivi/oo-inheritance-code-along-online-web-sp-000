@@ -8,4 +8,4 @@ end
 
 rari = Car.new(20, 30)
 
-rari.go
+puts rari.go
