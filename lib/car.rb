@@ -6,6 +6,6 @@ class Car < Vehicle
   end
 end
 
-rari = Car.new 
+rari = Car.new(20, 30)
 
 rari.go
