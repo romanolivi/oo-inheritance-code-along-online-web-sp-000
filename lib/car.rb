@@ -5,3 +5,7 @@ class Car < Vehicle
     "VRRROOOOOOOOOOOOOOOOOOOOOOOM!!!!!"
   end
 end
+
+rari = Car.new 
+
+rari.go
